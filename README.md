@@ -56,9 +56,15 @@ Three things drive the answer:
 | Net debt / EBITDA, FY27E | 1.86x | 1.8x (PL Capital estimate) |
 | Open offer acceptance | 0% assumed | 1,317 shares tendered |
 | Acquisition debt | ₹12,736 cr | ₹12,500 cr approved: ₹11,000 cr NCDs and ₹1,500 cr commercial paper |
-| Torrent shares after the merger | 38.00 cr | About 38.02 cr (market cap ÷ price, 12 Nov 2026) |
+| New Torrent shares issued in the merger | 4.16 cr | 4.19 cr (4,19,22,416 shares allotted on 20 July 2026) |
+| Torrent shares after the merger | 38.00 cr | 38.04 cr |
 
-The acquisition closed on 21 January 2026. The broker figures are cross-checks only and are not model inputs.
+The acquisition closed on 21 January 2026 and the merger took effect in July 2026. The model issues slightly fewer shares than Torrent did because it uses the announced 49.19% cash stake; Torrent held about 48.8% before the merger, so more JB shares were swapped. The broker figures are cross-checks only and are not model inputs.
+
+**Two figures that differ from press reports, and why.**
+
+- *₹26,678 cr against the reported ₹25,689 cr.* The reported figure prices every JB share at the ₹1,600 cash price. The model's figure is the consideration Torrent gives up: ₹12,636 cr of cash plus 4.16 cr Torrent shares at ₹3,375, which values the swapped shares at ₹1,721 each.
+- *2.66x leverage against management's 1.8x.* The model's ratio is total net debt, including Torrent's existing ₹2,250 cr, over FY26E EBITDA. Torrent's CFO guided 1.8x without the open offer and 2.8x with full acceptance, without stating the basis. Both figures are consistent with acquisition debt alone (₹12,636 cr and ₹19,479 cr) over about ₹7,000 cr of EBITDA; that reading is an inference.
 
 ## Rebuild
 
